@@ -64,5 +64,5 @@ menyusun kembali struktur informasi yang saya kumpulkan, dan bukan untuk menghas
 
 # Link Website 
 
-http://127.0.0.1:5500/index.html - Buka index.html menggunakan Chrome. 
+[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html) - Buka index.html menggunakan Chrome. 
 
