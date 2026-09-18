@@ -68,5 +68,5 @@ menyusun kembali struktur informasi yang saya kumpulkan, dan bukan untuk menghas
 
 # Link Website 
 
-[Klik di sini untuk membuka website](http://127.0.0.1:5500/index.html) - Buka index.html menggunakan Chrome. 
+[Klik di sini untuk membuka website](https://dancing-basbousa-0276be.netlify.app) - Buka index.html menggunakan Chrome. 
 
