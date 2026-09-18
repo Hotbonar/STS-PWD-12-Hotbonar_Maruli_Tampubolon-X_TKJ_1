@@ -45,6 +45,10 @@ Traveloka Campus (d/h Green Office Park 1) South Tower, lantai 2, zone 10. Jl. G
 <br><br>
 cs@traveloka.com
 
+# Tautan Resmi Perusahaan 
+
+https://www.traveloka.com/id-id
+
 # Daftar Sumber Refrensi 
 
 https://id.timedoor.net/blogs/profil-traveloka-unicorn-indonesia/
@@ -64,5 +68,5 @@ menyusun kembali struktur informasi yang saya kumpulkan, dan bukan untuk menghas
 
 # Link Website 
 
-[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html) - Buka index.html menggunakan Chrome. 
+[Klik di sini untuk membuka website](http://127.0.0.1:5500/index.html) - Buka index.html menggunakan Chrome. 
 
